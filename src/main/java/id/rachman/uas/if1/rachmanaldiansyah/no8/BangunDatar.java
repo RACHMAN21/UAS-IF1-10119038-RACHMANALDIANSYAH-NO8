@@ -14,6 +14,6 @@ package id.rachman.uas.if1.rachmanaldiansyah.no8;
 
 public interface BangunDatar {
     
-    void hitungLuas();
+    public void hitungLuas();
     
 }
